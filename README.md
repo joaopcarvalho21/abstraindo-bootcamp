@@ -3,7 +3,7 @@
 
 ## Descrição do Projeto
 
-Este projeto é uma simulação de um sistema de inscrição em Bootcamp para desenvolvedores. Ele permite que os usuários criem cursos, mentorias e gerenciem o progresso dos desenvolvedores através dos conteúdos do Bootcamp. O sistema acompanha os conteúdos inscritos, concluídos e calcula o total de XP (pontos de experiência) para cada desenvolvedor com base no seu progresso. O projeto implementa tratamento de exceções para garantir a integridade dos dados e tratar erros de entrada de usuário de forma adequada.
+Projeto realizado para o Bootcamp Dio - Java com Spring Boot, este projeto é uma simulação de um sistema de inscrição em Bootcamp para desenvolvedores. Ele permite que os usuários criem cursos, mentorias e gerenciem o progresso dos desenvolvedores através dos conteúdos do Bootcamp. O sistema acompanha os conteúdos inscritos, concluídos e calcula o total de XP (pontos de experiência) para cada desenvolvedor com base no seu progresso. O projeto implementa tratamento de exceções para garantir a integridade dos dados e tratar erros de entrada de usuário de forma adequada.
 
 ### Funcionalidades:
 - Inscrição de desenvolvedores em Bootcamps.
